@@ -2,7 +2,7 @@ remember the following in order to Execute Puzzle Game successful
 
 1. you must have python3 version installed
 
-2. the output are saved in "output.txt"
+2. the output are saved in "output.txt" file
 
 3. we are solving 3 types of algorithm in Graph theory 
 	. Depth-First Search(dfs)
